@@ -3,7 +3,7 @@ import json
 import random
 
 # Get your personal ScrapTubes Key from https://rapidapi.com/SteveJobsnihack/api/scraptubes
-scraptubes_key = "ENTER YOUR KEY HERE"
+scraptubes_key = "Cd497eca-faa4-4226-aff6-2316a4b4252d"
 
 url = "https://scraptubes.p.rapidapi.com/register/device"
 
